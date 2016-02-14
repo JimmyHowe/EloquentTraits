@@ -1,7 +1,7 @@
 {
     "name": "jimmyhowe/laravel-eloquent-traits",
     "description": "Laravel Eloquent Traits",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
